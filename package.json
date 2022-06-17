@@ -1,0 +1,19 @@
+{
+  "name": "web322-dgmon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cloudinary": "^1.30.0",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1",
+    "streamifier": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Darshan Monpara",
+  "license": "ISC"
+}
